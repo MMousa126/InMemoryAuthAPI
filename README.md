@@ -51,32 +51,23 @@ To test the API, you need to follow these steps:
 
 I have identified the following bugs while testing the API:
 
-- **Bug 1**: Response body data does not match the contact details submitted in the 'Create New Contact' request.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%231)
+- **Bug 1**: Response body data does not match the contact details submitted in the 'Create New Contact' request.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%231)
   
-- **Bug 2**: The ability to create multiple contacts using the same ID.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%232)
+- **Bug 2**: The ability to create multiple contacts using the same ID.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%232)
   
-- **Bug 3**: Deleted contact still persists in the database.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%233)
+- **Bug 3**: Deleted contact still persists in the database.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%233)
   
-- **Bug 4**: Contact Balance is not updating correctly.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%234)
+- **Bug 4**: Contact Balance is not updating correctly.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%234)
   
-- **Bug 5**: The ability to create multiple invoices using the same Invoice ID.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%235)
+- **Bug 5**: The ability to create multiple invoices using the same Invoice ID.   [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%235)
   
-- **Bug 6**: Ability to assign a status value outside the enumeration of possible invoice statuses [0, 1, 2].  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%236)
+- **Bug 6**: Ability to assign a status value outside the enumeration of possible invoice statuses [0, 1, 2]. [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%236)
   
-- **Bug 7**: A paid invoice cannot be marked as returned.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%237)
+- **Bug 7**: A paid invoice cannot be marked as returned.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%237)
   
-- **Bug 8**: Payment is allowed for an invoice marked as returned.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%238)
+- **Bug 8**: Payment is allowed for an invoice marked as returned.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%238)
   
-- **Bug 9**: Unable to create an invoice with a non-existent contact ID.  
-  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%239)
+- **Bug 9**: Unable to create an invoice with a non-existent contact ID.  [See details](https://github.com/MohamedSamy13699/InMemoryAuthAPI/tree/main/Issues/Issue%239)
 
 ## Contact
 
