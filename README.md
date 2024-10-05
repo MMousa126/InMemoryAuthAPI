@@ -9,6 +9,15 @@ This project involves testing the **CRM Module** APIs, focusing on functionaliti
 2. **API Testing**: Testing various endpoints related to managing contacts and invoices.
 3. **Bug Reporting**: Identifying bugs in the API and reporting them with detailed descriptions and steps to reproduce.
 
+## Test Plan and Bug Report
+
+You can access the **comprehensive test plan and bug report** through the following Google Sheet:
+
+### [Test Plan & Bug Report - Google Sheet](https://docs.google.com/spreadsheets/d/14MUizWVbvJq7uIL6iI-QwvB6tUp0e0bbCCsKYj8SutY/edit?gid=18#gid=18)
+
+This document contains detailed test cases, steps to reproduce bugs, and descriptions of the bugs found during testing.
+
+Additionally, the **issue file** includes **9 issues**, each with corresponding **videos, screenshots**, and **logs** to demonstrate the bugs. 
 ## Project Structure
 
 - **Test Plan**: A document containing test cases, methods, and expected outcomes for each API endpoint based on the user stories.
@@ -38,30 +47,10 @@ To test the API, you need to follow these steps:
 3. **Login**: After registering, use the `/api/Auth/login` endpoint to log in and obtain an authorization token.
 4. **Authorize Swagger**: Before making any requests, use the login token to authorize Swagger by adding `Bearer <your_token>` as the authorization value.
 
-## Running the Tests
-
-1. **Test Plan**: Follow the steps in the test plan to perform the tests. Ensure to cover both functional and non-functional requirements.
-2. **Report Bugs**: Use the provided bug report template to document any issues you find. Include steps to reproduce, expected vs. actual results, and severity.
-
-## Bug Reporting
-
-I have identified the following bugs while testing the API:
-
-- Bug 1: [Description of bug 1]
-- Bug 2: [Description of bug 2]
-- Bug 3: [Description of bug 3]
-
-For the full bug report, please refer to the `bug_report.md` file in the repository.
-
-## Documentation
-
-- [Swagger Documentation](https://qa-assignment.sortcrm.com/swagger/index.html)
-- Detailed test plan and bug report can be found in the `docs/` folder.
-
 ## Contact
 
 For any inquiries, feel free to contact me at:
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [mohamedsamy13699@gmail.com ](mailto:your_email@example.com)
+- GitHub: [mohamedsamy13699](https://github.com/yourusername)
 
